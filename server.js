@@ -29,7 +29,7 @@ var server = http.createServer(function(request, response){
         <link rel="stylesheet" href="/red">
     <body>
         
-        <h1>这里是h1的内容</h1>
+        <h1>内容</h1>
     </body>
     `)
     response.end()
